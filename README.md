@@ -2,7 +2,8 @@ Welcome to my Data Analysis Project! 🚀
 
 In this project, I've harnessed the power of Python libraries such as pandas and numpy to clean and preprocess my data. Once the data was meticulously cleaned and ready for analysis, I connected it to a SQL server, loading the refined data to uncover crucial insights. 🔍
 
-Project Highlights
+Project Highlights:
+
 **Data Cleaning:** Utilized pandas and numpy for robust data cleaning, ensuring accuracy and consistency. 🧽
 
 **Database Integration:** Connected the cleaned data to a SQL server for efficient storage and retrieval. 🗄️
